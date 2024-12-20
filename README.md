@@ -1,4 +1,4 @@
-# T3A2-B: Full Stack App: IMS-by-HK
+# T3A2-B: Full Stack App: Inventory Management App by Hayden Bradford & Kate Gerber
 
 ## Links:
 - Front-end deployed site on Netlify: [https://ims-hk.netlify.app/](https://ims-hk.netlify.app/)
