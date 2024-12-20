@@ -20,7 +20,7 @@
 - Mongoose
 - Express
 - React
-- Nodemon
+- Node
 
 ### Project Management tools:
 - Trello
