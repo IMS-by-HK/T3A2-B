@@ -9,9 +9,10 @@
 - [Front-end repo](https://github.com/IMS-by-HK/IMS-Frontend)
 - [Back-end repo](https://github.com/IMS-by-HK/IMS-Database)
 - [Backend-end deployed site on Render](https://ims-backend-2qfp.onrender.com/)
-- [Presentation files](/Presentation/Inventory%20Management_System.pptx)
+- [Presentation files](/docs/Presentation/)
+    - [Presentation PDF with presenter notes](/docs/Presentation/Inventory%20Management_System-with%20presenter%20notes.pdf)
 - [Trello Board](https://trello.com/b/RkNm85hb)
-- [Trello Screenshots](/Trello%20Screenshots/)
+- [Trello Screenshots](/docs/Trello%20Screenshots/)
 
 
 ## Techstack:
@@ -20,6 +21,11 @@
 - Express
 - React
 - Nodemon
+
+### Project Management tools:
+- Trello
+- GitHub
+- Discord
 
 ### Dependencies:
 #### Front-end:
