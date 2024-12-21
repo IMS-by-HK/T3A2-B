@@ -14,7 +14,7 @@
 - [Trello Board](https://trello.com/b/RkNm85hb)
 - [Trello Screenshots](/docs/Trello%20Screenshots/) 
     - Screenshots are included at the bottom of this repo
-
+- Testing screenshots are in respective repos for front-end and back-end
 
 ## Techstack:
 - MongoDB
@@ -57,7 +57,6 @@ Back-end:
 #### Trello Screenshots
 Main Board 8/12/24
 ![Main-Board](/docs/Trello%20Screenshots/MainBoard:Screenshot%202024-12-08%20at%208.42.37 PM.png)
-
 
 Card/Backend Developement 8/12/24
 ![Card/Backend-Development](/docs/Trello%20Screenshots/Card:Backend%20Development:Screenshot%202024-12-08%20at%209.01.13 PM.png)
@@ -107,7 +106,6 @@ Main Board 15/12/24
 Card/Backend Validation tests 15/12/24
 ![Card/Backend-Validation-tests](/docs/Trello%20Screenshots/Card:Backend-Validation-tests:Screenshot%202024-12-15%20at%2012.49.22 AM.png)
 
-
 Card/Backend Validation tests.cont 15/12/24
 ![Card/Backend-Validation-tests.cont](/docs/Trello%20Screenshots/Card:Backend-Validation-tests.cont:Screenshot%202024-12-15%20at%2012.49.32 AM.png)
 
@@ -132,9 +130,6 @@ Card/Important.cont 21/12/24
  Card/Important.cont 21/12/24
 ![Card/Important.cont](/docs/Trello%20Screenshots/Card:Important.cont:Screenshot%202024-12-21%20at%206.53.07 PM.png)
  
-Main Board 21/12/24
-![]()
-
 Card/Testing 21/12/24
 ![Card/Testing](/docs/Trello%20Screenshots/Card:Testing:Screenshot%202024-12-21%20at%207.03.46 PM.png)
 
@@ -150,5 +145,7 @@ Card/ProductRoutes 21/12/24
 Card/Deployment 21/12/24
 ![Card/Deployment](/docs/Trello%20Screenshots/Card:Deployment:Screenshot%202024-12-21%20at%207.05.19 PM.png)
 
+Main Board 21/12/24
+![]()
 
 ![]()
