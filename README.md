@@ -29,9 +29,13 @@
 - Discord
 
 ### Dependencies:
+
 #### Front-end:
-- React
 - Axios
+- React:
+      - react, react-dom, react-router-dom, react-scripts
+- Babel:
+    - @babel/core, @babel/preset-env, @babel/preset-react, @babel/plugin-proposal-private-property-in-object, @babel/plugin-transform-private-property-in-object
 
 #### Back-end:
 - Node.js
@@ -49,10 +53,14 @@
     - npm package that puts in ID number for products
 
 ### DevDependencies:
-Back-end:
+Back-End:
 - Nodemon
 - Jest 
     - for testing
+ 
+Front-End:
+- Testing:
+    - @testing-library/jest-dom, @testing-library/react, babel-jest, identity-obj-proxy, jest
 
 #### Trello Screenshots
 Main Board 8/12/24
