@@ -154,6 +154,6 @@ Card/Deployment 21/12/24
 ![Card/Deployment](/docs/Trello%20Screenshots/Card:Deployment:Screenshot%202024-12-21%20at%207.05.19 PM.png)
 
 Main Board 21/12/24
-![]()
+![Main-Board](/docs/Trello%20Screenshots/MainBoard:Screenshot%202024-12-21%20at%2010.13.20 PM.png)
 
-![]()
+
