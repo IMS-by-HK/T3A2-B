@@ -117,20 +117,20 @@ Card/Backend Authentication 15/12/24
 Main Board 20/12/24
 ![Main-Board](/docs/Trello%20Screenshots/MainBoard:Screenshot%202024-12-20%20at%208.24.29 PM.png)
 
-Main Board 21/2/24
+Main Board 21/12/24
 ![Main-Board](/docs/Trello%20Screenshots/MainBoard:Screenshot%202024-12-21%20at%205.42.03 PM.png)
 
-Card/Part B: Repo
+Card/Part B: Repo 21/12/24
 ![Card/Part-B-Repo](/docs/Trello%20Screenshots/Card:PartB-repo:Screenshot%202024-12-21%20at%205.42.11 PM.png)
 
-Card/Important
+Card/Important 21/12/24
 ![Card/Important](/docs/Trello%20Screenshots/Card:Important:Screenshot%202024-12-21%20at%205.43.54 PM.png)
 
-Card/Important.cont
+Card/Important.cont 21/12/24
 ![Card/Important.cont](/docs/Trello%20Screenshots/Card:Important.cont:Screenshot%202024-12-21%20at%205.44.05 PM.png)
 
-
+ Card/Important.cont 21/12/24
 ![Card/Important.cont](/docs/Trello%20Screenshots/Card:Important.cont:Screenshot%202024-12-21%20at%206.53.07 PM.png)
-
+ 
 Main Board
 ![]()
