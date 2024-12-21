@@ -132,5 +132,23 @@ Card/Important.cont 21/12/24
  Card/Important.cont 21/12/24
 ![Card/Important.cont](/docs/Trello%20Screenshots/Card:Important.cont:Screenshot%202024-12-21%20at%206.53.07 PM.png)
  
-Main Board
+Main Board 21/12/24
+![]()
+
+Card/Testing 21/12/24
+![Card/Testing](/docs/Trello%20Screenshots/Card:Testing:Screenshot%202024-12-21%20at%207.03.46 PM.png)
+
+Card/Integrate Frontend and Backend 21/12/24
+![Card/Integrate-Frontend-and-Backend](/docs/Trello%20Screenshots/Card:Integrate-Frontend-&-Backend:Screenshot%202024-12-21%20at%207.04.06 PM.png)
+
+Card/ProductID 21/12/24
+![Card/ProductID](/docs/Trello%20Screenshots/Card:ProductID:Screenshot%202024-12-21%20at%207.04.49 PM.png)
+
+Card/ProductRoutes 21/12/24
+![Card/ProductRoutes](/docs/Trello%20Screenshots/Card:ProductRoutes:Screenshot%202024-12-21%20at%207.05.02 PM.png)
+
+Card/Deployment 21/12/24
+![Card/Deployment](/docs/Trello%20Screenshots/Card:Deployment:Screenshot%202024-12-21%20at%207.05.19 PM.png)
+
+
 ![]()
