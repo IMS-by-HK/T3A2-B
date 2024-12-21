@@ -8,11 +8,12 @@
 - [Part A repo](https://github.com/IMS-by-HK/T3A2-A)
 - [Front-end repo](https://github.com/IMS-by-HK/IMS-Frontend)
 - [Back-end repo](https://github.com/IMS-by-HK/IMS-Database)
-- [Backend-end deployed site on Render](https://ims-backend-2qfp.onrender.com/)
+- Backend-end deployed site on Render: [https://ims-backend-2qfp.onrender.com/](https://ims-backend-2qfp.onrender.com/)
 - [Presentation files](/docs/Presentation/)
     - [Presentation PDF with presenter notes](/docs/Presentation/Inventory%20Management_System-with%20presenter%20notes.pdf)
 - [Trello Board](https://trello.com/b/RkNm85hb)
-- [Trello Screenshots](/docs/Trello%20Screenshots/)
+- [Trello Screenshots](/docs/Trello%20Screenshots/) 
+    - Screenshots are included at the bottom of this repo
 
 
 ## Techstack:
