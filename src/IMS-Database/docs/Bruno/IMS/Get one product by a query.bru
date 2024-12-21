@@ -1,0 +1,20 @@
+meta {
+  name: Get one product by a query
+  type: http
+  seq: 1
+}
+
+get {
+  url: http://localhost:8080/products/search
+  body: json
+  auth: none
+}
+
+body:json {
+  {
+    "query": {
+      "category": "Fruit"
+    },
+    "limit": 1
+  }
+}

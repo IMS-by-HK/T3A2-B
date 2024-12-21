@@ -1,0 +1,17 @@
+meta {
+  name: [PROD] Update one product
+  type: http
+  seq: 21
+}
+
+patch {
+  url: http://localhost:8080/products/675bf4409127bfdb6f4ea374
+  body: json
+  auth: none
+}
+
+body:json {
+  {
+    "description": "Apple"
+  }
+}

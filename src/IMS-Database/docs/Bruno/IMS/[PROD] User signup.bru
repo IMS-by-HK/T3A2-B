@@ -1,0 +1,18 @@
+meta {
+  name: [PROD] User signup
+  type: http
+  seq: 23
+}
+
+post {
+  url: http://localhost:8080/users/signup
+  body: json
+  auth: none
+}
+
+body:json {
+  {
+    "username": "Manager8",
+    "password": "examplepassword"
+  }
+}

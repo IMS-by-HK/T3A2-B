@@ -1,0 +1,15 @@
+meta {
+  name: Get all users
+  type: http
+  seq: 12
+}
+
+get {
+  url: http://localhost:8080/users/all
+  body: none
+  auth: none
+}
+
+headers {
+  jwt: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiI2NzYyYWYwOGI2MGI3N2I4NTY2NjZkZjciLCJ1c2VybmFtZSI6Ik1hbmFnZXIiLCJyb2xlcyI6bnVsbCwiaWF0IjoxNzM0NjgzMDk1LCJleHAiOjE3MzQ3Njk0OTV9.EEwfFbHG8jS4L5ngWOAYZHtru3sBJWYVD5cTKGsfVTc
+}

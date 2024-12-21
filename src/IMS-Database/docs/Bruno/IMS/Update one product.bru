@@ -1,0 +1,21 @@
+meta {
+  name: Update one product
+  type: http
+  seq: 3
+}
+
+patch {
+  url: http://localhost:8080/products/67629b874167d87487113cf7
+  body: json
+  auth: none
+}
+
+headers {
+  jwt: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiI2NzYyYWYwOGI2MGI3N2I4NTY2NjZkZjciLCJ1c2VybmFtZSI6Ik1hbmFnZXIiLCJyb2xlcyI6bnVsbCwiaWF0IjoxNzM0NTkyNzg5LCJleHAiOjE3MzQ2NzkxODl9.FPyZBQmFz3oE2xSlAOgHB2PdfFfRqk04asWEQViuQHk
+}
+
+body:json {
+  {
+    "price": "1.50"
+  }
+}

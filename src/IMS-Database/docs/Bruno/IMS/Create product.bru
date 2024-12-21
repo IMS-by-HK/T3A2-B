@@ -1,0 +1,25 @@
+meta {
+  name: Create product
+  type: http
+  seq: 8
+}
+
+post {
+  url: http://localhost:8080/products/create
+  body: json
+  auth: none
+}
+
+headers {
+  jwt: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiI2NzVmZWM1NTUwM2RlNGVjNDJkOTIwNjciLCJ1c2VybmFtZSI6Ik1hbmFnZXIiLCJyb2xlcyI6bnVsbCwiaWF0IjoxNzM0MzM5NzA5LCJleHAiOjE3MzQ0MjYxMDl9.IY_ERPQVAboQsr356iqt9ACmc1JZ0vAQBOH0HUPxeEk
+}
+
+body:json {
+   {
+      "name": "Salmon filleys 500g",
+      "category": "Seafood",
+      "description": "Atlantic Fresh Salmon",
+     "price": "17.50",
+     "quantity": "5"
+   }
+}
