@@ -52,3 +52,66 @@ Back-end:
 - Nodemon
 - Jest 
     - for testing
+
+#### Trello Screenshots
+Main Board 8/12/24
+![Main-Board](/docs/Trello%20Screenshots/MainBoard:Screenshot%202024-12-08%20at%208.42.37 PM.png)
+
+
+Card/Backend Developement 8/12/24
+![Card/Backend-Development](/docs/Trello%20Screenshots/Card:Backend%20Development:Screenshot%202024-12-08%20at%209.01.13 PM.png)
+
+Card/Set up the developement environment 8/12/24
+![Card/Set-up-the-development](/docs/Trello%20Screenshots/Card:Set%20up%20the%20development%20environment:Screenshot%202024-12-08%20at%209.05.53 PM.png)
+
+Card/Frontend Developement 8/12/24
+![Card/Frontend-Developement](/docs/Trello%20Screenshots/Card:%20Frontend%20Development:Screenshot%202024-12-08%20at%209.07.52 PM.png)
+
+Card/Integrate Frontend and Backend 8/12/24
+![Card/Integrate-Frontend-and-Backend](/docs/Trello%20Screenshots/Card:Integrate%20Frontend%20and%20backend:Screenshot%202024-12-08%20at%209.10.13 PM.png)
+
+Card/Testing 8/12/24
+![Card/Testing](/docs/Trello%20Screenshots/Card:Testing:Screenshot%202024-12-08%20at%209.10.23 PM.png)
+
+Card/Deployment 8/12/24
+![Card/Deployment](/docs/Trello%20Screenshots/Card:Deployment:Screenshot%202024-12-08%20at%209.10.31 PM.png)
+
+Card/Backend.cont 9/12/24
+![Card/Backend.cont](/docs/Trello%20Screenshots/Card:Backend.cont:Screenshot%202024-12-09%20at%201.14.54 AM.png)
+
+Main Board 9/12/24
+![Main-Board](/docs/Trello%20Screenshots/MainBoard:Screenshot%202024-12-09%20at%203.24.22 AM.png)
+
+Card/Backend-Database 9/12/24
+![Card/Backend-Database](/docs/Trello%20Screenshots/Card:Backend-Database:Screenshot%202024-12-09%20at%203.30.48 AM.png)
+
+Card/Backend-Database.cont 9/12/24
+![Card/Backend-Database.cont](/docs/Trello%20Screenshots/Card:Backend-Database.cont:Screenshot%202024-12-09%20at%203.31.33 AM.png)
+
+Card/Frontend 9/12/24
+![Card/Frontend](/docs/Trello%20Screenshots/Card:Frontend:Screenshot%202024-12-09%20at%205.30.03 PM.png)
+
+Card/Frontend.cont9/12/24
+![Card/Frontend.cont](/docs/Trello%20Screenshots/Card:Frontend.cont:Screenshot%202024-12-09%20at%205.30.25 PM.png)
+
+Card/Backend.cont 11/12/24
+![Card/Backend.cont](/docs/Trello%20Screenshots/Card:Backend.cont:Screenshot%202024-12-11%20at%203.42.23 AM.png)
+
+Card/Routes 14/12/24
+![Card/Routes](/docs/Trello%20Screenshots/Card:Routes:Screenshot%202024-12-14%20at%203.20.50 PM.png)
+
+Main Board 15/12/24
+![Main-Board](/docs/Trello%20Screenshots/MainBoard:Screenshot%202024-12-15%20at%2012.47.42 AM.png)
+
+Card/Backend Validation tests 15/12/24
+![Card/Backend-Validation-tests](/docs/Trello%20Screenshots/Card:Backend-Validation-tests:Screenshot%202024-12-15%20at%2012.49.22 AM.png)
+
+
+Card/Backend Validation tests.cont 15/12/24
+![Card/Backend-Validation-tests.cont](/docs/Trello%20Screenshots/Card:Backend-Validation-tests.cont:Screenshot%202024-12-15%20at%2012.49.32 AM.png)
+
+Card/Backend Authentication 15/12/24
+![Card/Backend-Authentication](/docs/Trello%20Screenshots/Card:Backend-Authentication:Screenshot%202024-12-15%20at%2012.53.35 AM.png)
+
+Main Board 20/12/24
+![Main-Board](/docs/Trello%20Screenshots/MainBoard:Screenshot%202024-12-20%20at%208.24.29 PM.png)
